@@ -1,0 +1,29 @@
+h1{
+    border-bottom: 8px double green;
+    border-left: 4px dashed palegreen;
+    border-right: 8px dotted green;
+    border-top: 4px solid palegreen;
+    padding: 4px;
+    text-align: center;
+    margin: 30px;
+}
+
+.p1{
+    border: 2px solid blue;
+    display: block;
+    padding: 2px;
+    margin: 10px;
+}
+
+.p2{
+    border: 2px solid blueviolet;
+    display: inline-block;
+    padding: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 40px;
+}
+
+#a{text-align: left;}
+#b{text-align: center;}
+#c{text-align: right;}
